@@ -13,16 +13,16 @@ export default function SERAConference() {
         </nav>
       </header>
       <main className="flex flex-col items-center gap-8">
-        <h1 className="text-4xl font-bold">Welcome to SERA Conference 2023</h1>
+        <h1 className="text-4xl font-bold">Welcome to SIEU Conference 2025</h1>
         <p className="text-center max-w-2xl">
           Join us for an exciting event where industry leaders and professionals come together to share insights, network, and explore the latest trends in technology and innovation.
         </p>
         <div className="text-center max-w-2xl">
           <p><strong>Location:</strong> San Francisco, CA</p>
           <p><strong>Type of Access:</strong> Online and Offline</p>
-          <p><strong>Conference Date:</strong> June 15-17, 2023</p>
-          <p><strong>Submission Date:</strong> April 1, 2023</p>
-          <p><strong>Camera Ready Date:</strong> May 15, 2023</p>
+          <p><strong>Conference Date:</strong> June 15-17, 2025</p>
+          <p><strong>Submission Date:</strong> April 1, 2025</p>
+          <p><strong>Camera Ready Date:</strong> May 15, 2025</p>
         </div>
         <a
           className="mt-4 rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-blue-600 text-white hover:bg-blue-700 text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
